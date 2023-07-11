@@ -9,6 +9,8 @@ import { motion } from 'framer-motion';
 import Project from './pages/Project';
 import Contact from './pages/Contact';
 
+// sdfhaldfhfsld
+
 function App() {
   const [load, upadateLoad] = useState(true);
   const [mousePosition, setMousePosition] = useState({
